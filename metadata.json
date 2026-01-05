@@ -1,0 +1,5 @@
+{
+  "name": "ATOMS Methodology Explorer",
+  "description": "Interactive replication of the Nonstationarity-Complexity Tradeoff and ATOMS algorithm for return prediction.",
+  "requestFramePermissions": []
+}
